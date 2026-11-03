@@ -1,8 +1,8 @@
 {
-  "versionCode": 29895306,
-  "versionName": "1.0.0-20261103.1506",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/mantra-lock-v1.0.0-20261103.1506/mantra-lock-1.0.0-20261103.1506.apk",
-  "sha256": "c62b23093e18f1094e779f31b4f107666989730dd7a408fbf8e15e7721d9fa1c",
-  "notes": "First release: the morning lock with Gita, Quran and Bible verses and your own affirmations, checked by your phone's speech recognition.",
-  "publishedAt": "2026-11-03T15:06:51.688Z"
+  "versionCode": 29895338,
+  "versionName": "1.0.0-20261103.1538",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/mantra-lock-v1.0.0-20261103.1538/mantra-lock-1.0.0-20261103.1538.apk",
+  "sha256": "748587b8bf0d5283a0293f38bc51d4c8fbd2bfa7a4eeadab48623b73819c5d07",
+  "notes": "Full Bhagavad Gita, Quran and Bible. Each morning carries on in order from the first verse, moving forward only as you say them. The Library opens chapter by chapter, with Up next and Start from here.",
+  "publishedAt": "2026-11-03T15:39:11.330Z"
 }
