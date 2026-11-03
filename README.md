@@ -8,3 +8,4 @@ Signed APKs for my sideloaded Android apps. No source code lives here.
 | App | Latest |
 | --- | --- |
 | Niyam | [`niyam/latest.json`](niyam/latest.json) |
+| Mantra Lock | [`mantra-lock/latest.json`](mantra-lock/latest.json) |
