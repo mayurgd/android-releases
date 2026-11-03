@@ -1,0 +1,8 @@
+{
+  "versionCode": 29895010,
+  "versionName": "1.0.0-20261103.1010",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261103.1010/niyam-1.0.0-20261103.1010.apk",
+  "sha256": "d981c570ce70bff82fdc6e1052c85aa8b31d3d258b1b3d2dfd7380c392cb7d37",
+  "notes": "Updates now come from GitHub. Lock-screen timer, Today title in the top bar, aligned times, and a Week starts on setting.",
+  "publishedAt": "2026-11-03T10:10:14.042Z"
+}
