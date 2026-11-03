@@ -1,8 +1,8 @@
 {
-  "versionCode": 29895153,
-  "versionName": "1.0.0-20261103.1233",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261103.1233/niyam-1.0.0-20261103.1233.apk",
-  "sha256": "4a0e1b6cf01e417171ab790d1bf19ede91b0de2d43e206c6ac4df0b6bd6ee4f2",
-  "notes": "Titles now sit in the top bar on every tab, so switching tabs no longer shifts the page.",
-  "publishedAt": "2026-11-03T12:33:35.125Z"
+  "versionCode": 29895517,
+  "versionName": "1.0.0-20261103.1837",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261103.1837/niyam-1.0.0-20261103.1837.apk",
+  "sha256": "f401649ddb1df4a411524bb979d3d127f6d4d6e45897abe939d051686b8a2919",
+  "notes": "Swipe blocks and to-dos for quick actions, type times like “Gym at 7pm for 45 min”, pull the week down for the month, see where your day’s time goes, −5 / End / +5 on the running block, and Back now steps back instead of closing the app.",
+  "publishedAt": "2026-11-03T18:37:37.886Z"
 }
