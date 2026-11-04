@@ -1,8 +1,8 @@
 {
-  "versionCode": 29896215,
-  "versionName": "1.0.0-20261104.0615",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261104.0615/niyam-1.0.0-20261104.0615.apk",
-  "sha256": "fc5b6e2f27ebc298db0f3a6d6eb3be454e3fe9bbf5b3c0393429b78bec1c7022",
-  "notes": "Sleep is now a category you can pick, rename and add subcategories to (like Nap). Naps count toward your total sleep.",
-  "publishedAt": "2026-11-04T06:15:41.991Z"
+  "versionCode": 29896233,
+  "versionName": "1.0.0-20261104.0633",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261104.0633/niyam-1.0.0-20261104.0633.apk",
+  "sha256": "6b267c17b764110ecfdd78cd4230a87d0bfffe83ed67e89b8e11384838b0fa8f",
+  "notes": "Naps get their own section in Sleep insights. A new block's title fills in from the category you pick.",
+  "publishedAt": "2026-11-04T06:33:19.661Z"
 }
