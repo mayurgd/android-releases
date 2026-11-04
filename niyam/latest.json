@@ -1,8 +1,8 @@
 {
-  "versionCode": 29896092,
-  "versionName": "1.0.0-20261104.0412",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261104.0412/niyam-1.0.0-20261104.0412.apk",
-  "sha256": "43fee9491f4795fb0f43063e8b34598989db6a134b0aa1152f6e52fd7746e9aa",
-  "notes": "Subcategories (Breakfast, Lunch, TV, Paperwork and more), new category icons, a cleaner category picker, and sleep moved out of the time breakdown.",
-  "publishedAt": "2026-11-04T04:12:21.392Z"
+  "versionCode": 29896129,
+  "versionName": "1.0.0-20261104.0449",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261104.0449/niyam-1.0.0-20261104.0449.apk",
+  "sha256": "eeaaa33ce16c6b0f5e323e836b39caf0d8ad3f6a0f16965a22c5b8ba9e4003ca",
+  "notes": "New Insights: week at a glance (focus, leisure, tracked time, sleep vs last period) and a redesigned sleep card with a bedtime-to-wake chart.",
+  "publishedAt": "2026-11-04T04:49:49.508Z"
 }
