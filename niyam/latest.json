@@ -1,8 +1,8 @@
 {
-  "versionCode": 29896721,
-  "versionName": "1.0.0-20261104.1441",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261104.1441/niyam-1.0.0-20261104.1441.apk",
-  "sha256": "3d7aa6182377f9eca9b05cbb33a3443cd5e14792d35016cc6ff850988a80b6d9",
-  "notes": "A calmer, more polished Niyam: the timeline highlights what's happening now and quiets finished blocks; titles shrink into the top bar as you scroll; Niyam's own time and date pickers; distinct habit icons and labelled week days; smoother, springier sheets; less instruction text.",
-  "publishedAt": "2026-11-04T14:41:48.810Z"
+  "versionCode": 29896922,
+  "versionName": "1.0.0-20261104.1802",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261104.1802/niyam-1.0.0-20261104.1802.apk",
+  "sha256": "12a0ab547627d66bd954ba2488e14401a1d8a8da5d976acae3ba57a95e6386a7",
+  "notes": "Calmer colours that point at what matters; readable icons on light categories like Chores; tick habits straight from the Habits tab, with green for done; the Add button shows the time you're adding; less repeated text; titles line up with the cards.",
+  "publishedAt": "2026-11-04T18:02:56.685Z"
 }
