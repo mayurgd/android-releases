@@ -1,8 +1,8 @@
 {
-  "versionCode": 29896129,
-  "versionName": "1.0.0-20261104.0449",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261104.0449/niyam-1.0.0-20261104.0449.apk",
-  "sha256": "eeaaa33ce16c6b0f5e323e836b39caf0d8ad3f6a0f16965a22c5b8ba9e4003ca",
-  "notes": "New Insights: week at a glance (focus, leisure, tracked time, sleep vs last period) and a redesigned sleep card with a bedtime-to-wake chart.",
-  "publishedAt": "2026-11-04T04:49:49.508Z"
+  "versionCode": 29896172,
+  "versionName": "1.0.0-20261104.0532",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261104.0532/niyam-1.0.0-20261104.0532.apk",
+  "sha256": "a7fd428503cb9187e7155a035a78e6e7b0890b4b08b56e769eb11b22c978a3d4",
+  "notes": "Lock a block in place (earlier blocks shift, shorten or are removed around it). Winding down before bed shows on Today and counts as personal time. Naps count toward tracked time.",
+  "publishedAt": "2026-11-04T05:32:51.566Z"
 }
