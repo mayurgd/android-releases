@@ -1,8 +1,8 @@
 {
-  "versionCode": 29896172,
-  "versionName": "1.0.0-20261104.0532",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261104.0532/niyam-1.0.0-20261104.0532.apk",
-  "sha256": "a7fd428503cb9187e7155a035a78e6e7b0890b4b08b56e769eb11b22c978a3d4",
-  "notes": "Lock a block in place (earlier blocks shift, shorten or are removed around it). Winding down before bed shows on Today and counts as personal time. Naps count toward tracked time.",
-  "publishedAt": "2026-11-04T05:32:51.566Z"
+  "versionCode": 29896215,
+  "versionName": "1.0.0-20261104.0615",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261104.0615/niyam-1.0.0-20261104.0615.apk",
+  "sha256": "fc5b6e2f27ebc298db0f3a6d6eb3be454e3fe9bbf5b3c0393429b78bec1c7022",
+  "notes": "Sleep is now a category you can pick, rename and add subcategories to (like Nap). Naps count toward your total sleep.",
+  "publishedAt": "2026-11-04T06:15:41.991Z"
 }
