@@ -1,8 +1,8 @@
 {
-  "versionCode": 29896444,
-  "versionName": "1.0.0-20261104.1004",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261104.1004/niyam-1.0.0-20261104.1004.apk",
-  "sha256": "64ec9a986fd817166dedd5a391bcfcec53cd5021b24b61222de8a6c3e580d2ac",
-  "notes": "Niyam notifications have their own chime (notification settings reset to defaults). The wake-up row on Today is animated. Wake-up and bedtime times line up on the day card. Switching days slides cleanly without flicker.",
-  "publishedAt": "2026-11-04T10:04:44.559Z"
+  "versionCode": 29896721,
+  "versionName": "1.0.0-20261104.1441",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261104.1441/niyam-1.0.0-20261104.1441.apk",
+  "sha256": "3d7aa6182377f9eca9b05cbb33a3443cd5e14792d35016cc6ff850988a80b6d9",
+  "notes": "A calmer, more polished Niyam: the timeline highlights what's happening now and quiets finished blocks; titles shrink into the top bar as you scroll; Niyam's own time and date pickers; distinct habit icons and labelled week days; smoother, springier sheets; less instruction text.",
+  "publishedAt": "2026-11-04T14:41:48.810Z"
 }
