@@ -1,8 +1,8 @@
 {
-  "versionCode": 29895951,
-  "versionName": "1.0.0-20261104.0151",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261104.0151/niyam-1.0.0-20261104.0151.apk",
-  "sha256": "347bb2530487888fa219a7bab1f18105f3ed7d3ce84c0d06550e3feffb84d1ed",
-  "notes": "Clean line icons everywhere, a tidier time breakdown, sleep that only counts once you're up, a neater header, and update checks each time you open the app.",
-  "publishedAt": "2026-11-04T01:51:33.135Z"
+  "versionCode": 29896092,
+  "versionName": "1.0.0-20261104.0412",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261104.0412/niyam-1.0.0-20261104.0412.apk",
+  "sha256": "43fee9491f4795fb0f43063e8b34598989db6a134b0aa1152f6e52fd7746e9aa",
+  "notes": "Subcategories (Breakfast, Lunch, TV, Paperwork and more), new category icons, a cleaner category picker, and sleep moved out of the time breakdown.",
+  "publishedAt": "2026-11-04T04:12:21.392Z"
 }
