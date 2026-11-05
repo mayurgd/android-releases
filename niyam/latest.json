@@ -1,8 +1,8 @@
 {
-  "versionCode": 29896922,
-  "versionName": "1.0.0-20261104.1802",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261104.1802/niyam-1.0.0-20261104.1802.apk",
-  "sha256": "12a0ab547627d66bd954ba2488e14401a1d8a8da5d976acae3ba57a95e6386a7",
-  "notes": "Calmer colours that point at what matters; readable icons on light categories like Chores; tick habits straight from the Habits tab, with green for done; the Add button shows the time you're adding; less repeated text; titles line up with the cards.",
-  "publishedAt": "2026-11-04T18:02:56.685Z"
+  "versionCode": 29897618,
+  "versionName": "1.0.0-20261105.0538",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261105.0538/niyam-1.0.0-20261105.0538.apk",
+  "sha256": "3d135f68b74c32f0235df74f17db9d12096eff3875093bfd6bf051803d7059ee",
+  "notes": "New blocks fill in what you usually do at that time. Habits warn when a streak is at stake, with a 9 PM reminder. Waking up counts as your first tick. Empty days offer last week's plan. Insights show waking-hour share and the healthy sleep range.",
+  "publishedAt": "2026-11-05T05:39:10.739Z"
 }
