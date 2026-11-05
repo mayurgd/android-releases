@@ -1,8 +1,8 @@
 {
-  "versionCode": 29898267,
-  "versionName": "1.0.0-20261105.1627",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261105.1627/niyam-1.0.0-20261105.1627.apk",
-  "sha256": "386fe31560e2bb87dc01a54b77a4a3dccb25546acc35cf9296728e8be0ec19bc",
-  "notes": "Categories are listed alphabetically when you pick one for a block.",
-  "publishedAt": "2026-11-05T16:27:21.942Z"
+  "versionCode": 29898334,
+  "versionName": "1.0.0-20261105.1734",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261105.1734/niyam-1.0.0-20261105.1734.apk",
+  "sha256": "a4672cbf966a55c8d5fc791586b7e87e17e94f784025e74610385136ab5a343a",
+  "notes": "Workouts moved to Settings, under Planning.",
+  "publishedAt": "2026-11-05T17:34:19.008Z"
 }
