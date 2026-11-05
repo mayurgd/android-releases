@@ -1,8 +1,8 @@
 {
-  "versionCode": 29897720,
-  "versionName": "1.0.0-20261105.0720",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261105.0720/niyam-1.0.0-20261105.0720.apk",
-  "sha256": "7bcf3a8c750828033418451e5a862b2a25c682a1172c46a6bcd2099eec3b842d",
-  "notes": "The plan-like-last-week card now keeps its three actions on one row.",
-  "publishedAt": "2026-11-05T07:20:15.330Z"
+  "versionCode": 29898099,
+  "versionName": "1.0.0-20261105.1339",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261105.1339/niyam-1.0.0-20261105.1339.apk",
+  "sha256": "9faf4adb39ed1d98905c61524c7bd9ef0af0b3e379e921f7779e29491373c644",
+  "notes": "Browsing up to 30 minutes a day counts as personal time; anything past that in a day counts as unproductive, in today's and weekly insights.",
+  "publishedAt": "2026-11-05T13:39:47.042Z"
 }
