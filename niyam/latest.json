@@ -1,8 +1,8 @@
 {
-  "versionCode": 29898432,
-  "versionName": "1.0.0-20261105.1912",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261105.1912/niyam-1.0.0-20261105.1912.apk",
-  "sha256": "e372f40fca6a1281ce2c8d34ce29aed01f94e6d13845b1a4d8b16781e7dcc490",
-  "notes": "Plan a workout routine as a timeline block. New Workouts section in Insights.",
-  "publishedAt": "2026-11-05T19:12:55.985Z"
+  "versionCode": 29898457,
+  "versionName": "1.0.0-20261105.1937",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261105.1937/niyam-1.0.0-20261105.1937.apk",
+  "sha256": "f0d7bfe53fd1442a35a29ed8391490790d03a6f3b293a6ba7c1a52167bf12125",
+  "notes": "Supersets: link exercises to do them back to back, resting after the last. Redrawn Alternate Hammer Curl.",
+  "publishedAt": "2026-11-05T19:38:02.478Z"
 }
