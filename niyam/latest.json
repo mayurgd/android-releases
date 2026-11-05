@@ -1,8 +1,8 @@
 {
-  "versionCode": 29898476,
-  "versionName": "1.0.0-20261105.1956",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261105.1956/niyam-1.0.0-20261105.1956.apk",
-  "sha256": "ebf14fceacabd5af1c1c7a2eb4bcaaab833b3dbf1effe48d8df8d3e26cfc9c05",
-  "notes": "Workouts insights show training days instead of set counts",
-  "publishedAt": "2026-11-05T19:56:33.204Z"
+  "versionCode": 29898488,
+  "versionName": "1.0.0-20261105.2008",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261105.2008/niyam-1.0.0-20261105.2008.apk",
+  "sha256": "63560b15b2a57f551b1f6f3b4884029a9e6f34de2746fa51d2144060463f12f3",
+  "notes": "Traps exercises count under Shoulders",
+  "publishedAt": "2026-11-05T20:08:17.079Z"
 }
