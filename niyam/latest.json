@@ -1,8 +1,8 @@
 {
-  "versionCode": 29898099,
-  "versionName": "1.0.0-20261105.1339",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261105.1339/niyam-1.0.0-20261105.1339.apk",
-  "sha256": "9faf4adb39ed1d98905c61524c7bd9ef0af0b3e379e921f7779e29491373c644",
-  "notes": "Browsing up to 30 minutes a day counts as personal time; anything past that in a day counts as unproductive, in today's and weekly insights.",
-  "publishedAt": "2026-11-05T13:39:47.042Z"
+  "versionCode": 29898257,
+  "versionName": "1.0.0-20261105.1617",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261105.1617/niyam-1.0.0-20261105.1617.apk",
+  "sha256": "352c0de9786e0f70b8c2a1c0c44b61dd91b799483deba7d152a8ff0eb78eeaaf",
+  "notes": "Workout tracker: start a workout from a workout block on Today or from Workouts in the … menu. 876 exercises with pictures, sets with last-time hints, warm-ups, drop sets, rest timer, routines and a summary when you finish.",
+  "publishedAt": "2026-11-05T16:17:52.670Z"
 }
