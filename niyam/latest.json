@@ -1,8 +1,8 @@
 {
-  "versionCode": 29898334,
-  "versionName": "1.0.0-20261105.1734",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261105.1734/niyam-1.0.0-20261105.1734.apk",
-  "sha256": "a4672cbf966a55c8d5fc791586b7e87e17e94f784025e74610385136ab5a343a",
-  "notes": "Workouts moved to Settings, under Planning.",
-  "publishedAt": "2026-11-05T17:34:19.008Z"
+  "versionCode": 29898410,
+  "versionName": "1.0.0-20261105.1850",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261105.1850/niyam-1.0.0-20261105.1850.apk",
+  "sha256": "dc4318c98e3052e411f0ec1eaf4b6a7d327105bddacac8b1d340bd04dcdb2577",
+  "notes": "Delete a set or drop from its menu, with undo. Workout volume removed. New exercises: Machine Assisted Pull-Up and Plate Halo to Overhead. Redrawn Standing Dumbbell Triceps Extension.",
+  "publishedAt": "2026-11-05T18:51:08.945Z"
 }
