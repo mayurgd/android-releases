@@ -1,8 +1,8 @@
 {
-  "versionCode": 29897618,
-  "versionName": "1.0.0-20261105.0538",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261105.0538/niyam-1.0.0-20261105.0538.apk",
-  "sha256": "3d135f68b74c32f0235df74f17db9d12096eff3875093bfd6bf051803d7059ee",
-  "notes": "New blocks fill in what you usually do at that time. Habits warn when a streak is at stake, with a 9 PM reminder. Waking up counts as your first tick. Empty days offer last week's plan. Insights show waking-hour share and the healthy sleep range.",
-  "publishedAt": "2026-11-05T05:39:10.739Z"
+  "versionCode": 29897720,
+  "versionName": "1.0.0-20261105.0720",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261105.0720/niyam-1.0.0-20261105.0720.apk",
+  "sha256": "7bcf3a8c750828033418451e5a862b2a25c682a1172c46a6bcd2099eec3b842d",
+  "notes": "The plan-like-last-week card now keeps its three actions on one row.",
+  "publishedAt": "2026-11-05T07:20:15.330Z"
 }
