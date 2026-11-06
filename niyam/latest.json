@@ -1,8 +1,8 @@
 {
-  "versionCode": 29899262,
-  "versionName": "1.0.0-20261106.0902",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261106.0902/niyam-1.0.0-20261106.0902.apk",
-  "sha256": "57f124d1d5e95720f37b03a6cdab7f9ec1ee677409828809125eb3250089ab1b",
-  "notes": "Account page with linked sign-in methods, change password and mobile number. Blocks added after midnight but before bedtime now stay on that day.",
-  "publishedAt": "2026-11-06T09:02:29.030Z"
+  "versionCode": 29899359,
+  "versionName": "1.0.0-20261106.1039",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261106.1039/niyam-1.0.0-20261106.1039.apk",
+  "sha256": "42b94ee84c82314fee993afb3ad552870fb11aed56c05a0a5e6e23b15feb9432",
+  "notes": "Habits: week grid, build or break habits, counted goals, take-a-break pauses, reorder. Share my day. Inbox is now Tasks. Bring your own assistant API keys.",
+  "publishedAt": "2026-11-06T10:40:03.732Z"
 }
