@@ -1,8 +1,8 @@
 {
-  "versionCode": 29899075,
-  "versionName": "1.0.0-20261106.0555",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261106.0555/niyam-1.0.0-20261106.0555.apk",
-  "sha256": "4496245c85e49830645aaad6bf166c9d614083d516ff073afe5a6ff1c107bd29",
-  "notes": "Smarter assistant: create and edit habits, saved blocks and workout routines, log workouts, review your training and sleep, and ask how anything in the app works.",
-  "publishedAt": "2026-11-06T05:55:41.626Z"
+  "versionCode": 29899234,
+  "versionName": "1.0.0-20261106.0834",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261106.0834/niyam-1.0.0-20261106.0834.apk",
+  "sha256": "ab53d5cb9385b10edf8798af902bd1ac2bb373ed672e3222dd4bb1eea360891f",
+  "notes": "Sign in with Google, a quick setup for new accounts, delete account, and privacy and terms pages.",
+  "publishedAt": "2026-11-06T08:34:44.373Z"
 }
