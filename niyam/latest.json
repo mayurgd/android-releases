@@ -1,8 +1,8 @@
 {
-  "versionCode": 29899234,
-  "versionName": "1.0.0-20261106.0834",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261106.0834/niyam-1.0.0-20261106.0834.apk",
-  "sha256": "ab53d5cb9385b10edf8798af902bd1ac2bb373ed672e3222dd4bb1eea360891f",
-  "notes": "Sign in with Google, a quick setup for new accounts, delete account, and privacy and terms pages.",
-  "publishedAt": "2026-11-06T08:34:44.373Z"
+  "versionCode": 29899262,
+  "versionName": "1.0.0-20261106.0902",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261106.0902/niyam-1.0.0-20261106.0902.apk",
+  "sha256": "57f124d1d5e95720f37b03a6cdab7f9ec1ee677409828809125eb3250089ab1b",
+  "notes": "Account page with linked sign-in methods, change password and mobile number. Blocks added after midnight but before bedtime now stay on that day.",
+  "publishedAt": "2026-11-06T09:02:29.030Z"
 }
