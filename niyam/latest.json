@@ -1,8 +1,8 @@
 {
-  "versionCode": 29898488,
-  "versionName": "1.0.0-20261105.2008",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261105.2008/niyam-1.0.0-20261105.2008.apk",
-  "sha256": "63560b15b2a57f551b1f6f3b4884029a9e6f34de2746fa51d2144060463f12f3",
-  "notes": "Traps exercises count under Shoulders",
-  "publishedAt": "2026-11-05T20:08:17.079Z"
+  "versionCode": 29899075,
+  "versionName": "1.0.0-20261106.0555",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261106.0555/niyam-1.0.0-20261106.0555.apk",
+  "sha256": "4496245c85e49830645aaad6bf166c9d614083d516ff073afe5a6ff1c107bd29",
+  "notes": "Smarter assistant: create and edit habits, saved blocks and workout routines, log workouts, review your training and sleep, and ask how anything in the app works.",
+  "publishedAt": "2026-11-06T05:55:41.626Z"
 }
