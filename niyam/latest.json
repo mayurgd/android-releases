@@ -1,8 +1,8 @@
 {
-  "versionCode": 29899359,
-  "versionName": "1.0.0-20261106.1039",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261106.1039/niyam-1.0.0-20261106.1039.apk",
-  "sha256": "42b94ee84c82314fee993afb3ad552870fb11aed56c05a0a5e6e23b15feb9432",
-  "notes": "Habits: week grid, build or break habits, counted goals, take-a-break pauses, reorder. Share my day. Inbox is now Tasks. Bring your own assistant API keys.",
-  "publishedAt": "2026-11-06T10:40:03.732Z"
+  "versionCode": 29899698,
+  "versionName": "1.0.0-20261106.1618",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261106.1618/niyam-1.0.0-20261106.1618.apk",
+  "sha256": "b5f9d2f1b6e35fc3688a8ac96399d45e914d8815ef38e8083a940219e1de410c",
+  "notes": "Open a person's whole app read-only in the parts they share. Workouts follow their timeline block, and ticking a block counts for its habit. Blocks link to the closest habit; scheduled days show on Habits. Saved blocks: add or delete a whole category. Insights: choose focus and leisure, daily limits. People on Today as avatars.",
+  "publishedAt": "2026-11-06T16:19:21.992Z"
 }
