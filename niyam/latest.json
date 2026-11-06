@@ -1,8 +1,8 @@
 {
-  "versionCode": 29899904,
-  "versionName": "1.0.0-20261106.1944",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261106.1944/niyam-1.0.0-20261106.1944.apk",
-  "sha256": "66992f609ae69e29d719c28b1205546a59c066762f681d55f464b2a1b42fe056",
-  "notes": "Google Calendar on Today (read only). Add a block, to-do or habit from one line or by voice. Fill free time, drag to-dos onto the day. Workout suggestions and personal bests. Streak freezes, milestones, weekly recap. Fitting icons, previews of what moves before you add, compact timeline, one-row headers.",
-  "publishedAt": "2026-11-06T19:44:19.741Z"
+  "versionCode": 29899922,
+  "versionName": "1.0.0-20261106.2002",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261106.2002/niyam-1.0.0-20261106.2002.apk",
+  "sha256": "8d60fbba322bac420c58ccf206be455d78369e5391dfcc461da4a096929364f2",
+  "notes": "Saved blocks no longer duplicate habits already on your day; their parts use the habit's icon. Blocks without an icon show one that fits their name.",
+  "publishedAt": "2026-11-06T20:02:45.405Z"
 }
