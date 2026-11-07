@@ -1,8 +1,8 @@
 {
-  "versionCode": 29900348,
-  "versionName": "1.0.0-20261107.0308",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261107.0308/niyam-1.0.0-20261107.0308.apk",
-  "sha256": "c7ee1c7731f39af5ed8f64552b2f9b0f7856d9602e70549b75866333596a37a1",
-  "notes": "Clock view of your day (true midnight to midnight, last night's late blocks striped), cleaner menus, untracked time you can't miss, and Insights that match Today",
-  "publishedAt": "2026-11-07T03:08:50.233Z"
+  "versionCode": 29900535,
+  "versionName": "1.0.0-20261107.0615",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261107.0615/niyam-1.0.0-20261107.0615.apk",
+  "sha256": "cee2edce28829f0b3204b5e353ca2052d4e11fdde996f2fb726df8e36c80d5f3",
+  "notes": "A calmer, structured look. Workouts: plan sets and reps per exercise. Habits: one card per habit. Exercise filters without system dropdowns. The day's ring counts unplanned time. Asks before a change moves other blocks (Settings > Planner to always move or leave them).",
+  "publishedAt": "2026-11-07T06:16:10.596Z"
 }
