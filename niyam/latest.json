@@ -1,8 +1,8 @@
 {
-  "versionCode": 29901016,
-  "versionName": "1.0.0-20261107.1416",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261107.1416/niyam-1.0.0-20261107.1416.apk",
-  "sha256": "b576ec02897cbbf8a153f5cf69d9b976d0270fa20e9d1ad4cf946fbf8c0d8a03",
-  "notes": "A light haptic tap on every press",
-  "publishedAt": "2026-11-07T14:17:11.838Z"
+  "versionCode": 29901188,
+  "versionName": "1.0.0-20261107.1708",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261107.1708/niyam-1.0.0-20261107.1708.apk",
+  "sha256": "fdc9072e258994677783cd8fdac929b888b0fe9cf48f8741798b5aa898ef5620",
+  "notes": "Unticked blocks keep their checklist open; the 12-hour clock shows the half of the day it is",
+  "publishedAt": "2026-11-07T17:08:26.845Z"
 }
