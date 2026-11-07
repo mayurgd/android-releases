@@ -1,8 +1,8 @@
 {
-  "versionCode": 29900610,
-  "versionName": "1.0.0-20261107.0730",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261107.0730/niyam-1.0.0-20261107.0730.apk",
-  "sha256": "5b048bdc7077042f088ee23858684a06ae198adfc8efe3f0fb9032bde81cbda8",
-  "notes": "Counted habits like Drink water stay off the timeline. Editing a habit's time updates the days it's already on. Habits still to do today are outlined in red.",
-  "publishedAt": "2026-11-07T07:31:07.969Z"
+  "versionCode": 29900661,
+  "versionName": "1.0.0-20261107.0821",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261107.0821/niyam-1.0.0-20261107.0821.apk",
+  "sha256": "395c9e1aee4212a57879325113d11b09ef6c59f824ae82ce701f6211935c5e2e",
+  "notes": "A glossy finish. Red badges on Today and Habits for what's still to do, with blocks to review and habits due highlighted in red. A counter to add or take back any number on counted habits. Choosing the clock view brings the clock into view.",
+  "publishedAt": "2026-11-07T08:22:00.149Z"
 }
