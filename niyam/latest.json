@@ -1,8 +1,8 @@
 {
-  "versionCode": 29900569,
-  "versionName": "1.0.0-20261107.0649",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261107.0649/niyam-1.0.0-20261107.0649.apk",
-  "sha256": "eda17c4413481e54b548e4a3228fd821337fac44a5d5f412a1249ddf4357e825",
-  "notes": "Habits: each habit is one compact row, with its icon beside the week's days, so more fit on screen.",
-  "publishedAt": "2026-11-07T06:49:19.157Z"
+  "versionCode": 29900610,
+  "versionName": "1.0.0-20261107.0730",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261107.0730/niyam-1.0.0-20261107.0730.apk",
+  "sha256": "5b048bdc7077042f088ee23858684a06ae198adfc8efe3f0fb9032bde81cbda8",
+  "notes": "Counted habits like Drink water stay off the timeline. Editing a habit's time updates the days it's already on. Habits still to do today are outlined in red.",
+  "publishedAt": "2026-11-07T07:31:07.969Z"
 }
