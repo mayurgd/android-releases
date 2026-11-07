@@ -1,8 +1,8 @@
 {
-  "versionCode": 29899922,
-  "versionName": "1.0.0-20261106.2002",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261106.2002/niyam-1.0.0-20261106.2002.apk",
-  "sha256": "8d60fbba322bac420c58ccf206be455d78369e5391dfcc461da4a096929364f2",
-  "notes": "Saved blocks no longer duplicate habits already on your day; their parts use the habit's icon. Blocks without an icon show one that fits their name.",
-  "publishedAt": "2026-11-06T20:02:45.405Z"
+  "versionCode": 29900279,
+  "versionName": "1.0.0-20261107.0159",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261107.0159/niyam-1.0.0-20261107.0159.apk",
+  "sha256": "f98d98691831a97d2e9191a8474a33b96cd2671583e825eaac1d1475279adbe6",
+  "notes": "Clock view of your day, profile switch behind your avatar, time split behind a button, A–Z exercise picker with body-part dropdowns, routine reordering. Habits without a time stay off Today.",
+  "publishedAt": "2026-11-07T01:59:43.642Z"
 }
