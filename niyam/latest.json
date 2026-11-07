@@ -1,8 +1,8 @@
 {
-  "versionCode": 29900535,
-  "versionName": "1.0.0-20261107.0615",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261107.0615/niyam-1.0.0-20261107.0615.apk",
-  "sha256": "cee2edce28829f0b3204b5e353ca2052d4e11fdde996f2fb726df8e36c80d5f3",
-  "notes": "A calmer, structured look. Workouts: plan sets and reps per exercise. Habits: one card per habit. Exercise filters without system dropdowns. The day's ring counts unplanned time. Asks before a change moves other blocks (Settings > Planner to always move or leave them).",
-  "publishedAt": "2026-11-07T06:16:10.596Z"
+  "versionCode": 29900569,
+  "versionName": "1.0.0-20261107.0649",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261107.0649/niyam-1.0.0-20261107.0649.apk",
+  "sha256": "eda17c4413481e54b548e4a3228fd821337fac44a5d5f412a1249ddf4357e825",
+  "notes": "Habits: each habit is one compact row, with its icon beside the week's days, so more fit on screen.",
+  "publishedAt": "2026-11-07T06:49:19.157Z"
 }
