@@ -1,8 +1,8 @@
 {
-  "versionCode": 29901188,
-  "versionName": "1.0.0-20261107.1708",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261107.1708/niyam-1.0.0-20261107.1708.apk",
-  "sha256": "fdc9072e258994677783cd8fdac929b888b0fe9cf48f8741798b5aa898ef5620",
-  "notes": "Unticked blocks keep their checklist open; the 12-hour clock shows the half of the day it is",
-  "publishedAt": "2026-11-07T17:08:26.845Z"
+  "versionCode": 29901334,
+  "versionName": "1.0.0-20261107.1934",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261107.1934/niyam-1.0.0-20261107.1934.apk",
+  "sha256": "db3ee5855d634f5749977d58cdeb326224b49a1d71b4c1bc1c0fb7c139d2a5b1",
+  "notes": "AM/PM on the 12-hour clock, routine picker on workout blocks, +5m on the end time, looping time wheels, set/rep defaults for new routines. Fits here suggestions removed. The assistant no longer lists habits whose weekly target is met.",
+  "publishedAt": "2026-11-07T19:35:16.226Z"
 }
