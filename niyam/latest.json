@@ -1,8 +1,8 @@
 {
-  "versionCode": 29901698,
-  "versionName": "1.0.0-20261108.0138",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261108.0138/niyam-1.0.0-20261108.0138.apk",
-  "sha256": "7ba155486fff6f45fce72367a8135980a41189623f6c2d3e233189a55352095c",
-  "notes": "Messages on Today: suggestions to group your categories, and anything keeping reminders from reaching you. New categories suggest a main category as you name them. Titles get a category, length and time learned from your own days, and a small on-device word model files new ones by meaning. Deleting a habit clears its unticked days.",
-  "publishedAt": "2026-11-08T01:39:24.129Z"
+  "versionCode": 29901888,
+  "versionName": "1.0.0-20261108.0448",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261108.0448/niyam-1.0.0-20261108.0448.apk",
+  "sha256": "fa31cb6961262d877e1fc3a51dd15a41c30243034fd76b384f3f4df1e5ba9db1",
+  "notes": "Screen time: time in Instagram and YouTube shows on your timeline as Unproductive (turn it on in Settings, Screen time). Blocks at the same time sit side by side on tracks, blocks can run in the background, a Now strip shows what's running, and Today nudges you when too much is planned at once. Plus a sunrise and night scene, and sync that retries on its own.",
+  "publishedAt": "2026-11-08T04:49:06.806Z"
 }
