@@ -1,8 +1,8 @@
 {
-  "versionCode": 29901334,
-  "versionName": "1.0.0-20261107.1934",
-  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261107.1934/niyam-1.0.0-20261107.1934.apk",
-  "sha256": "db3ee5855d634f5749977d58cdeb326224b49a1d71b4c1bc1c0fb7c139d2a5b1",
-  "notes": "AM/PM on the 12-hour clock, routine picker on workout blocks, +5m on the end time, looping time wheels, set/rep defaults for new routines. Fits here suggestions removed. The assistant no longer lists habits whose weekly target is met.",
-  "publishedAt": "2026-11-07T19:35:16.226Z"
+  "versionCode": 29901698,
+  "versionName": "1.0.0-20261108.0138",
+  "url": "https://github.com/mayurgd/android-releases/releases/download/niyam-v1.0.0-20261108.0138/niyam-1.0.0-20261108.0138.apk",
+  "sha256": "7ba155486fff6f45fce72367a8135980a41189623f6c2d3e233189a55352095c",
+  "notes": "Messages on Today: suggestions to group your categories, and anything keeping reminders from reaching you. New categories suggest a main category as you name them. Titles get a category, length and time learned from your own days, and a small on-device word model files new ones by meaning. Deleting a habit clears its unticked days.",
+  "publishedAt": "2026-11-08T01:39:24.129Z"
 }
